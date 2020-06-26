@@ -5,7 +5,7 @@
 body{
 	margin: 0;
 	padding: 0;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+font-family: "Times New Roman", Times, serif;
 }
 
 .row{
@@ -16,7 +16,7 @@ body{
 h1 {
   margin-bottom: 15px;
   text-align: center;
-  color: #ff4532;
+  color: black;
   font-size: 50px;
 }
 
@@ -50,19 +50,21 @@ h1 {
   font-size: 25px;
   padding: 2%;
   padding-top: 55px;
-  background-color: rgba(0,0,0,0.3);
+  background-color:rgba(255, 117, 22, 0.3);
 }
 
 .name1{
-  background-color: #FFB6C1;
+  color: white;
+  background-color: red;
 }
 
 .name2{
   color: white;
-  background-color: #FF0000;
+  background-color: darkblue;
 }
 .name3{
-  background-color: #FFFF00;
+  color: white;
+  background-color: darkgreen;
 }
 
 
